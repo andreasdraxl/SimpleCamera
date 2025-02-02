@@ -9,9 +9,9 @@
     "preview": "vite preview"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "author": "Andreas Draxl",
+  "license": "MIT",
+  "description": "Learn in Progress",
   "devDependencies": {
     "@types/node": "^22.13.0",
     "@types/three": "^0.173.0",
